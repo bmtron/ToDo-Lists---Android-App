@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="add_new_list">New List</string>
+    <string name="app_name">List</string>
+    <string name="list_title">Title</string>
+    <string name="save_new_list">Save</string>
+    <string name="list_of_lists">Lists</string>
+    <string name="title_activity_view_list">ViewList</string>
+    <string name="delete_list">Delete</string>
+</resources>
